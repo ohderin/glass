@@ -1,0 +1,4 @@
+Input the ciphertext you want to decrypt within the "", example:
+
+        cipherText = "w zcjs dobqoysg" <-- (INPUT)
+        Most probable plaintext: 'i love pancakes' <-- (OUTPUT)
